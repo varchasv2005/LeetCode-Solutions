@@ -1,37 +1,26 @@
-void rotate(int* nums, int numsSize, int k)
-{
-    k = k % numsSize; // handle k > numsSize
-
-    // reverse whole array
-    int left = 0, right = numsSize - 1;
-    while (left < right)
-    {
-        int temp = nums[left];
-        nums[left] = nums[right];
-        nums[right] = temp;
-        left++;
-        right--;
+// helper to reverse part of array
+void reverse(int* arr, int start, int end) {
+    while (start < end) {
+        int temp = arr[start];
+        arr[start] = arr[end];
+        arr[end] = temp;
+        start++;
+        end--;
     }
+}
 
-    // reverse first k elements
-    left = 0; right = k - 1;
-    while (left < right)
-    {
-        int temp = nums[left];
-        nums[left] = nums[right];
-        nums[right] = temp;
-        left++;
-        right--;
-    }
+void rotate(int* nums, int numsSize, int k) {
+    if (numsSize <= 1) return;
 
-    // reverse remaining elements
-    left = k; right = numsSize - 1;
-    while (left < right)
-    {
-        int temp = nums[left];
-        nums[left] = nums[right];
-        nums[right] = temp;
-        left++;
-        right--;
-    }
+    k = k % numsSize;  // normalize k
+    if (k == 0) return;
+
+    // Step 1: Reverse first n-k elements
+    reverse(nums, 0, numsSize-k-1);
+
+    // Step 2: Reverse last k elements
+    reverse(nums, numsSize-k, numsSize-1);
+
+    // Step 3: Reverse the whole array
+    reverse(nums, 0, numsSize-1);
 }
