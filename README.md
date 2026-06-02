@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0367-valid-perfect-square](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Stack
 |  |
