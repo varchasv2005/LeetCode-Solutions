@@ -1,26 +1,42 @@
-class Solution
-{
+class Solution {
     public int[] searchRange(int[] nums, int target)
     {
-        int first = -1;
-        int last = -1;
-        int l = nums.length - 1;
-        for (int i = 0; i < nums.length; i++)
+        int[] result = {-1, -1};
+        int left = binarySearch(nums, target, true);
+        int right = binarySearch(nums, target, false);
+        result[0] = left;
+        result[1] = right;
+        return result;        
+    }
+    private int binarySearch(int[] nums, int target, boolean isSearchingLeft)
+    {
+        int left = 0;
+        int right = nums.length - 1;
+        int idx = -1;
+        while (left <= right)
         {
-            if (nums[i] == target)
+            int mid = left + (right - left) / 2;
+            if (nums[mid] > target)
             {
-                first = i;
-                break;
+                right = mid - 1;
+            }
+            else if (nums[mid] < target)
+            {
+                left = mid + 1;
+            }
+            else
+            {
+                idx = mid;
+                if (isSearchingLeft)
+                {
+                    right = mid - 1;
+                }
+                else
+                {
+                    left = mid + 1;
+                }
             }
         }
-        for (int i = nums.length - 1; i >= 0; i--)
-        {
-            if (nums[i] == target)
-            {
-                last = i;
-                break;
-            }
-        }
-        return new int[]{first, last};
+        return idx;
     }
 }
