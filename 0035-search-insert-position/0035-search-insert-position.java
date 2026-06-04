@@ -9,20 +9,28 @@ class Solution
             return nums.length;
         }
 
-        for (int i = 0; i < nums.length; i++)
+        else if (target < nums[0])
         {
-            if (nums[i] == target)
-            {
-                ans = i;
-                break;
-            }
+            return 0;
         }
-        for (int i = 0; i < nums.length - 1; i++)
+
+        else
         {
-            if (nums[i] < target && nums[i+1] > target)
+            for (int i = 0; i < nums.length; i++)
             {
-                ans = i + 1;
-                break;
+                if (nums[i] == target)
+                {
+                    ans = i;
+                    break;
+                }
+            }
+            for (int i = 0; i < nums.length - 1; i++)
+            {
+                if (nums[i] < target && nums[i+1] > target)
+                {
+                    ans = i + 1;
+                    break;
+                }
             }
         }
         return ans;
