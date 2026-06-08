@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0155-min-stack) |
 ## Linked List
 |  |
 | ------- |
@@ -223,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
