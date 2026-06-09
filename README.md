@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 ## Greedy
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -239,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0046-permutations) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
