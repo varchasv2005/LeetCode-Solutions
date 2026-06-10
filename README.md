@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 ## Heap (Priority Queue)
 |  |
