@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1051-height-checker](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 ## Greedy
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0994-rotting-oranges](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
