@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1051-height-checker](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1051-height-checker) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
 | ------- |
@@ -290,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
