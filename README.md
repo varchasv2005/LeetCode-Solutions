@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [1051-height-checker](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
