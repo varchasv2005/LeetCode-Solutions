@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0139-word-break) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0994-rotting-oranges](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -287,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0079-word-search) |
 ## Union-Find
 |  |
 | ------- |
