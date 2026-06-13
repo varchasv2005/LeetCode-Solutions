@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0684-redundant-connection](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 ## Binary Tree
 |  |
 | ------- |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0684-redundant-connection](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0994-rotting-oranges](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 ## Heap (Priority Queue)
 |  |
@@ -318,11 +320,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 ## Topological Sort
 |  |
 | ------- |
