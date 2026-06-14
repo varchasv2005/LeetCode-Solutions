@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
