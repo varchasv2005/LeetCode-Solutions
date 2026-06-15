@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0876-middle-of-the-linked-list](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0295-find-median-from-data-stream](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 ## Backtracking
 |  |
 | ------- |
@@ -388,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
