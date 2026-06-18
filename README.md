@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0079-word-search) |
 ## Union-Find
 |  |
