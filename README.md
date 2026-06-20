@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0162-find-peak-element) |
