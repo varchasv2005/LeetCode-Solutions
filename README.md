@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
