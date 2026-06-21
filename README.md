@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0520-detect-capital](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Trie
 |  |
