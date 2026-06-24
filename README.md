@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Bit Manipulation
