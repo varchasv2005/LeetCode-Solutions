@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
