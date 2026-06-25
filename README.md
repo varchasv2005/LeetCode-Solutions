@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0476-number-complement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 ## Sorting
 |  |
 | ------- |
