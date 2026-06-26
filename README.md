@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
+| [0844-backspace-string-compare](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Trie
 |  |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Linked List
 |  |
 | ------- |
