@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Trie
 |  |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
