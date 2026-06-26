@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0804-unique-morse-code-words](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0875-koko-eating-bananas](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [0905-sort-array-by-parity](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1051-height-checker](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1051-height-checker) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0905-sort-array-by-parity](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1051-height-checker](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
