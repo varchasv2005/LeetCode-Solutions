@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0728-self-dividing-numbers](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
