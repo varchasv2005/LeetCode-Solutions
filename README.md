@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
+| [1002-find-common-characters](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1051-height-checker](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0804-unique-morse-code-words](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0859-buddy-strings](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0859-buddy-strings) |
+| [1002-find-common-characters](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Two Pointers
 |  |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0859-buddy-strings) |
 | [0917-reverse-only-letters](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0917-reverse-only-letters) |
+| [1002-find-common-characters](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1108-defanging-an-ip-address](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
