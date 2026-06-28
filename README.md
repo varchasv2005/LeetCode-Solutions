@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1051-height-checker](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1480-running-sum-of-1d-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Tree
 |  |
