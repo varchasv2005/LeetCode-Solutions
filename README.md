@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1051-height-checker](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1389-create-target-array-in-the-given-order](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+| [1389-create-target-array-in-the-given-order](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
