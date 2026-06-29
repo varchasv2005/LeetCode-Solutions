@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1720-decode-xored-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0859-buddy-strings) |
 | [1002-find-common-characters](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1720-decode-xored-array) |
 ## Sorting
 |  |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1528-shuffle-string](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1678-goal-parser-interpretation) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Trie
 |  |
