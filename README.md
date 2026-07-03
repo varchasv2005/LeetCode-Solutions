@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 ## Trie
 |  |
 | ------- |
