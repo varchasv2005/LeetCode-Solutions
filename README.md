@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2574-left-and-right-sum-differences](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2942-find-words-containing-character](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 ## Hash Table
 |  |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [2942-find-words-containing-character](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
 ## Trie
 |  |
