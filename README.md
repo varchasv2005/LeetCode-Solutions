@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/3131-find-the-integer-added-to-array-i) |
 ## Hash Table
 |  |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2864-maximum-odd-binary-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3024-type-of-triangle](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3099-harshad-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/3099-harshad-number) |
 ## Bit Manipulation
 |  |
