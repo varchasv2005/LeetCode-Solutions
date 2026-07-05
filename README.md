@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3024-type-of-triangle](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
+| [3099-harshad-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/3099-harshad-number) |
 ## Bit Manipulation
 |  |
 | ------- |
