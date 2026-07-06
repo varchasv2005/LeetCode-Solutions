@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/3131-find-the-integer-added-to-array-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3099-harshad-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/3099-harshad-number) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Bit Manipulation
 |  |
 | ------- |
