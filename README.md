@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## String
 |  |
 | ------- |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Trie
 |  |
 | ------- |
