@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1768-merge-strings-alternately](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0680-valid-palindrome-ii](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2864-maximum-odd-binary-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2864-maximum-odd-binary-number) |
 ## Sliding Window
