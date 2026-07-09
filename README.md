@@ -601,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0684-redundant-connection) |
+| [1791-find-center-of-star-graph](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1791-find-center-of-star-graph) |
 ## Topological Sort
 |  |
 | ------- |
