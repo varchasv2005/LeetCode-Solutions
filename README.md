@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2864-maximum-odd-binary-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2864-maximum-odd-binary-number) |
 | [2942-find-words-containing-character](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
+| [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
@@ -670,4 +671,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+## Enumeration
+|  |
+| ------- |
+| [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
 <!---LeetCode Topics End-->
