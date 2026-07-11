@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2525-categorize-box-according-to-criteria](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2525-categorize-box-according-to-criteria) |
 | [2544-alternating-digit-sum](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2544-alternating-digit-sum) |
+| [2578-split-with-minimum-sum](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2578-split-with-minimum-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1859-sorting-the-sentence](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
+| [2578-split-with-minimum-sum](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2578-split-with-minimum-sum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3024-type-of-triangle](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2578-split-with-minimum-sum](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2578-split-with-minimum-sum) |
 | [2864-maximum-odd-binary-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2864-maximum-odd-binary-number) |
 ## Sliding Window
 |  |
