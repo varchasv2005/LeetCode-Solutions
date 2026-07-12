@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2765-longest-alternating-subarray](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2765-longest-alternating-subarray) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
@@ -703,5 +704,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2765-longest-alternating-subarray](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2765-longest-alternating-subarray) |
 | [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
 <!---LeetCode Topics End-->
