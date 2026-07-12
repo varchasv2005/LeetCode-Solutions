@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2239-find-closest-number-to-zero](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2239-find-closest-number-to-zero) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2418-sort-the-people](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2460-apply-operations-to-an-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
