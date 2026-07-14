@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2239-find-closest-number-to-zero](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2239-find-closest-number-to-zero) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2418-sort-the-people](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2460-apply-operations-to-an-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1859-sorting-the-sentence](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2418-sort-the-people](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2578-split-with-minimum-sum](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2578-split-with-minimum-sum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2578-split-with-minimum-sum](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2578-split-with-minimum-sum) |
 | [2864-maximum-odd-binary-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2864-maximum-odd-binary-number) |
 ## Sliding Window
@@ -612,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Quickselect
 |  |
 | ------- |
