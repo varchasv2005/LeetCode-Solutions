@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1436-destination-city) |
+| [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1470-shuffle-the-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1528-shuffle-string) |
