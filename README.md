@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
