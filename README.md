@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1528-shuffle-string](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1768-merge-strings-alternately](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1859-sorting-the-sentence](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
