@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1528-shuffle-string](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1528-shuffle-string) |
+| [1534-count-good-triplets](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
 | [1550-three-consecutive-odds](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -740,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2765-longest-alternating-subarray](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2765-longest-alternating-subarray) |
 | [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
