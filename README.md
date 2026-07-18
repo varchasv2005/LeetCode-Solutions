@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1603-design-parking-system](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1389-create-target-array-in-the-given-order](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [1603-design-parking-system](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 | [1920-build-array-from-permutation](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [1603-design-parking-system](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 ## Backtracking
 |  |
 | ------- |
