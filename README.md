@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1710-maximum-units-on-a-truck](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1720-decode-xored-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1773-count-items-matching-a-rule) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1710-maximum-units-on-a-truck](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1859-sorting-the-sentence](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0680-valid-palindrome-ii](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1710-maximum-units-on-a-truck](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2578-split-with-minimum-sum](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2578-split-with-minimum-sum) |
