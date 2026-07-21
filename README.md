@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1694-reformat-phone-number](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1694-reformat-phone-number) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
