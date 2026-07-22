@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
