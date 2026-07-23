@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-maximum-ascending-subarray-sum](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1854-maximum-population-year](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1854-maximum-population-year) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1854-maximum-population-year](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1854-maximum-population-year) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1854-maximum-population-year](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1854-maximum-population-year) |
 | [2485-find-the-pivot-integer](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Tree
