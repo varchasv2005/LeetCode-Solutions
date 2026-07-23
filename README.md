@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1854-maximum-population-year](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1854-maximum-population-year) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2235-add-two-integers) |
@@ -769,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 ## Merge Sort
 |  |
 | ------- |
