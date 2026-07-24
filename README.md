@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1854-maximum-population-year) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1920-build-array-from-permutation](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -623,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1854-maximum-population-year](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1854-maximum-population-year) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2485-find-the-pivot-integer](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Tree
