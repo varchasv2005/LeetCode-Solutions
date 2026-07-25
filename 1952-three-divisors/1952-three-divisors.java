@@ -1,18 +1,15 @@
 class Solution {
     public boolean isThree(int n) {
-        int count = 0;
+        int root = (int) Math.sqrt(n);
 
-        for (int i = 1; i * i <= n; i++) {
-            if (n % i == 0) {
-                count++;
-                if (i != n / i)
-                    count++;
+        if (root * root != n)
+            return false;
 
-                if (count > 3)
-                    return false;
-            }
+        for (int i = 2; i * i <= root; i++) {
+            if (root % i == 0)
+                return false;
         }
 
-        return count == 3;
+        return root > 1;
     }
 }
