@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1925-count-square-sum-triples](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2235-add-two-integers) |
@@ -835,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1534-count-good-triplets](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1925-count-square-sum-triples](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [2765-longest-alternating-subarray](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2765-longest-alternating-subarray) |
 | [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
