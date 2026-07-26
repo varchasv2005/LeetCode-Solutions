@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1768-merge-strings-alternately](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2000-reverse-prefix-of-word](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2000-reverse-prefix-of-word](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1598-crawler-log-folder](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1598-crawler-log-folder) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2000-reverse-prefix-of-word](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/varchasv2005/LeetCode-Solutions/tree/master/3174-clear-digits) |
 ## Linked List
